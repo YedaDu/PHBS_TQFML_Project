@@ -1,6 +1,6 @@
 # PHBS_TQFML_Project
 
-## Final Project: Idiosyncratic Market Value Factor: explaining market value by machine learning methods
+## Idiosyncratic Market Value Factor: explaining market value by machine learning methods
 Written by <br> 
 * Junjie Zhou 1601213672<br> 
 * Shixin Chen 1601213497<br> 
